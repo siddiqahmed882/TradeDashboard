@@ -1,0 +1,9 @@
+export const ROOT_PATH = "/";
+export const REGISTER_PATH = "/register";
+export const LOGIN_PATH = "/login";
+export const CHALLENGE_PATH = "/challenge";
+export const PLATFORM_PATH = "/platform";
+export const PROFILE_PATH = "/profile";
+export const SETTINGS_PATH = "/settings";
+export const HELP_PATH = "/help";
+export const LOGOUT_PATH = "/logout";
